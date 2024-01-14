@@ -1,4 +1,4 @@
- ## Kontak
+ ## Kontak Creator
 
  Untuk pertanyaan apa pun mengenai perizinan atau penggunaan, silakan hubungi pemilik proyek
  - [ Email ](mailto:support@yanamiku.shop).
