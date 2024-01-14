@@ -128,7 +128,7 @@ $ pm2 start index.js && pm2 save && pm2 logs
 
 ---
 
-## Command Run Script Bot Via Termux
+## Command Install Bot Via Termux
 
  - [ Download Termux ](https://play.google.com/store/apps/details?id=com.termux)
  - [ Tutorial Video ](https://) 
