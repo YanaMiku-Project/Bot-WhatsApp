@@ -32,8 +32,8 @@ There are 2 configuration files namely ```.env``` and ```config.json```, adjust 
 ```Javascript
 {
    "owner": "6285793589243", // nomor owner
-   "owner_name": "Customer Service", // nama owner
-   "database": "data", // nama database
+   "owner_name": "Iyuzaki Yanagi", // nama owner
+   "database": "database", // nama database
    "limit": 20, // limit per hari
    "ram_limit": "500mb", // ram limit server
    "max_upload": 50, 
