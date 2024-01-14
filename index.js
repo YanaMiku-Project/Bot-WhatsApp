@@ -44,7 +44,7 @@ CFonts.say('YanaMiku', {
 async function checkUpdate() {
 	try {
 		const vcode = require('./version.json').semantic.version
-		const json = await Func.fetchJson('https://yanamiku.shop/check-update/base')
+		const json = await Func.fetchJson('https://yanamiku.shop/check-update/base.json')
 		if (json.status && json.data.version != vcode) return ({
 			update: true,
 			...json.data
