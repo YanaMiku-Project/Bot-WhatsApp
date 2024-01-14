@@ -134,17 +134,21 @@ $ pm2 start index.js && pm2 save && pm2 logs
  - [ Tutorial Video ](https://) 
 
 ### Instalasi
+```
 $ termux-setup-storage
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install nodejs 
 $ pkg install ffmpeg
+```
 
 ### Running
+```
 $ cd storage/downloads
 $ cd (opsional)
 $ npm install
 $ node .
+```
 
 ---
 
