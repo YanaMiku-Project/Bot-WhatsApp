@@ -3,7 +3,8 @@
 <h1 align="center">YanaMiku - BOTz (YanaMiku-Project)</h1>
 <em><h5 align="center">(Bot WhatsApp Simple By Iyuzaki Yanagi)</h5></e
  
- ## Kontak Creator
+ 
+ # Kontak Creator
 
  Untuk pertanyaan apa pun mengenai perizinan atau penggunaan, silakan hubungi pemilik proyek
  - [ Email ](mailto:support@yanamiku.shop).
@@ -13,16 +14,16 @@
 
  Dengan menggunakan atau berinteraksi dengan proyek ini, Anda setuju untuk terikat oleh syarat dan ketentuan lisensi ini.
 
-## Donate Links
+# Donate Links
 
 <b>QRIS</b>: <code>https://iili.io/JuQ2gqu.jpg</code></br>
 **satu untuk semua, sedikit apapun donasi kamu sangat berharga ❤️**
 
- # Terimakasih
+ ## Terimakasih
 
 ---
 
- ### Requirements
+ # Requirements
 
 - [x] NodeJS >= 18
 - [x] FFMPEG
@@ -30,7 +31,7 @@
 
 ---
 
-### Configuration
+# Configuration
 
 There are 2 configuration files namely ```.env``` and ```config.json```, adjust them before installing.
 
@@ -77,7 +78,7 @@ CLOVYR_COOKIE = ''
 
 ---
 
-### Run on Clovyr
+# Run on Clovyr
 
 Clovyr is a free cloud compute with vscode based for running bot with specifications of 2 CPU and 4GB RAM (idk storage size)
 
@@ -98,7 +99,7 @@ with vscode it will be very easy to do recode and debugging scripts
 
 ---
 
-### Pairing Code
+# Pairing Code
 
 Connecting account without qr scan but using pairing code.
 
@@ -114,7 +115,7 @@ Connecting account without qr scan but using pairing code.
 ```
 ---
 
-### Installation & Run
+# Installation & Run
 
 Make sure the configuration and server meet the requirements so that there are no problems during installation or when this bot is running, type this on your console :
 
@@ -133,12 +134,12 @@ $ pm2 start index.js && pm2 save && pm2 logs
 
 ---
 
-## Command Install Bot Via Termux
+# Command Install Bot Via Termux
 
  - [ Download Termux ](https://play.google.com/store/apps/details?id=com.termux)
  - [ Tutorial Video ](https://) 
 
-### Instalasi
+## Instalasi
 ```
 $ termux-setup-storage
 ```
@@ -158,7 +159,7 @@ $ pkg install ffmpeg
 $ git clone https://github.com/YanaMiku-Project/Bot-WhatsApp.git
 ```
 
-### Running
+## Running
 ```
 $ cd storage/downloads
 ```
