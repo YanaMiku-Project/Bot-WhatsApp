@@ -136,17 +136,34 @@ $ pm2 start index.js && pm2 save && pm2 logs
 ### Instalasi
 ```
 $ termux-setup-storage
+```
+```
 $ pkg update && pkg upgrade
+```
+```
 $ pkg install git
-$ pkg install nodejs 
+```
+```
+$ pkg install nodejs
+```
+```
 $ pkg install ffmpeg
+```
+```
+$ git clone https://github.com/YanaMiku-Project/Bot-WhatsApp.git
 ```
 
 ### Running
 ```
 $ cd storage/downloads
-$ cd (opsional)
+```
+```
+$ cd Bot-WhatsApp
+```
+```
 $ npm install
+```
+```
 $ node .
 ```
 
