@@ -156,7 +156,7 @@ $ pkg install nodejs
 $ pkg install ffmpeg
 ```
 ```
-$ git clone https://github.com/YanaMiku-Project/Bot-WhatsApp.git
+$ git clone https://github.com/YanaMiku-Project/Bot-WhatsApp
 ```
 
 ## Running
