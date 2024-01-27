@@ -176,7 +176,6 @@ $ node .
 ---
 
 # Tutorial Run
-**Get Api Picsart** :
 - [Run Termux](https://)
 - [Run Panel](https://)
 
