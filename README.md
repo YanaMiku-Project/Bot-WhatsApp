@@ -161,7 +161,7 @@ $ pkg install ffmpeg
 $ cd storage/downloads
 ```
 ```
-$ git clone https://github.com/YanaMiku-Project/WhatsApp-Bot-Ai
+$ git clone https://github.com/YanaMiku-Project/Bot-WhatsApp
 ```
 ```
 $ cd Bot-WhatsApp
