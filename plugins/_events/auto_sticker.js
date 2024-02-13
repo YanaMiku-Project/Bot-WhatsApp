@@ -4,7 +4,6 @@ exports.run = {
       body,
       isOwner,
       setting,
-      setting,
       Func
    }) => {
       try {
